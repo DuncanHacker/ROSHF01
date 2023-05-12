@@ -6,3 +6,6 @@ A feladat, hogy az elé kerülő akadályokat észlelje, és megpróbálja kiker
 Ehhez a LIDAR szenzort fogjuk használni. Feliratkozunk a LIDAR Scan topicjára és publisholunk velocity parancsokat a cmd_vel topicnak, hogy az akadályok közt navigáljunk.
 
 Így, ha a robot meglát egy akadályt, megpróbál elfordulni, hogy tudja folytatni az útját. 
+
+TurtleBot Mozgatás
+https://ros2-industrial-workshop.readthedocs.io/en/latest/_source/navigation/ROS2-Turtlebot.html
